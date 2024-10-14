@@ -1,4 +1,3 @@
-#9
 def Autocapitalize(string):
     s='.!?'
     a=''
